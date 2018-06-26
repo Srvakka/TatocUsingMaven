@@ -42,7 +42,7 @@ public class MyTest {
 	@Test(priority = 5)
 	public void NewTab_And_Submit_Text() {
 		NewTabAndSearch obj = new NewTabAndSearch(driver);
-		obj.action("Rishabh");
+		obj.action("Aaa");
 		
 	}
 	@Test(priority = 6)
