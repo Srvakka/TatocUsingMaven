@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8884" started-at="2018-06-26T13:11:26Z" finished-at="2018-06-26T13:11:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8884" started-at="2018-06-26T13:11:26Z" finished-at="2018-06-26T13:11:35Z">
+      <class name="Keyword.MyTest">
+        <test-method status="PASS" signature="launch_Browser()[pri:0, instance:Keyword.MyTest@5f375618]" name="launch_Browser" is-config="true" duration-ms="4485" started-at="2018-06-26T18:41:26Z" finished-at="2018-06-26T18:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Browser -->
+        <test-method status="PASS" signature="Basic_Course_Click()[pri:0, instance:Keyword.MyTest@5f375618]" name="Basic_Course_Click" duration-ms="200" started-at="2018-06-26T18:41:31Z" finished-at="2018-06-26T18:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Basic_Course_Click -->
+        <test-method status="PASS" signature="Green_Box_Click()[pri:0, instance:Keyword.MyTest@5f375618]" name="Green_Box_Click" duration-ms="348" started-at="2018-06-26T18:41:31Z" finished-at="2018-06-26T18:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Green_Box_Click -->
+        <test-method status="PASS" signature="color_box_matching()[pri:0, instance:Keyword.MyTest@5f375618]" name="color_box_matching" duration-ms="1574" started-at="2018-06-26T18:41:31Z" finished-at="2018-06-26T18:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- color_box_matching -->
+        <test-method status="PASS" signature="Drag_and_Drop_Test()[pri:0, instance:Keyword.MyTest@5f375618]" name="Drag_and_Drop_Test" duration-ms="300" started-at="2018-06-26T18:41:33Z" finished-at="2018-06-26T18:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Drag_and_Drop_Test -->
+        <test-method status="PASS" signature="NewTab_And_Submit_Text()[pri:0, instance:Keyword.MyTest@5f375618]" name="NewTab_And_Submit_Text" duration-ms="1616" started-at="2018-06-26T18:41:33Z" finished-at="2018-06-26T18:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewTab_And_Submit_Text -->
+        <test-method status="PASS" signature="check_token_generation()[pri:0, instance:Keyword.MyTest@5f375618]" name="check_token_generation" duration-ms="273" started-at="2018-06-26T18:41:35Z" finished-at="2018-06-26T18:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_token_generation -->
+        <test-method status="PASS" signature="close_the_browser()[pri:0, instance:Keyword.MyTest@5f375618]" name="close_the_browser" is-config="true" duration-ms="61" started-at="2018-06-26T18:41:35Z" finished-at="2018-06-26T18:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_the_browser -->
+      </class> <!-- Keyword.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
